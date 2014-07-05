@@ -1,0 +1,31 @@
+.content {
+    margin: 30px auto;
+    height: 480px;
+    width: 720px;
+    text-align: center;
+}
+
+input{
+    margin:10px;
+}
+
+svg {
+    position: relative;
+    border: 2px solid grey;
+    height: 480px;
+    width: 640px;
+    border-radius: 10px;
+    box-shadow: 20px 20px #aaa;
+}
+
+rect {
+    fill: #CCCCFF;
+    stroke:grey;
+    stroke-width:2;
+}
+        
+
+
+
+
+
